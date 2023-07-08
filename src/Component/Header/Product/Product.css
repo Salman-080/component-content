@@ -1,0 +1,23 @@
+.p_details{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    margin-top: 80px;
+}
+
+.image{
+    margin-right: 10px;
+}
+
+#btn{
+    color: white;
+    border: 1px solid orange;
+    border-radius: 5px;
+    background-color: orangered;
+    width: 120px;
+    height: 40px;
+   
+    font-size: medium;
+}
+

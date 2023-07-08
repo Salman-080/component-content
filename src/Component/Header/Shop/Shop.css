@@ -1,0 +1,19 @@
+.shopping{
+    display: flex;
+   
+
+}
+
+.shop{
+    width: 60%;
+    margin-right: 50px;
+    margin-left: 10%;
+    color: blue;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    margin-top: 80px;
+   
+
+}
+
+
