@@ -10,6 +10,7 @@ const Shop = () => {
 
    const all= data;
    const [products]= useState(all);
+   
    const [cart,setcart]= useState([]);
 
    //console.log(ten);
